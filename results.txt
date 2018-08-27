@@ -1,0 +1,20 @@
+a : 3 
+and : 2 
+by : 1 
+dollars : 3 
+feed : 3 
+few : 3 
+from : 4 
+has : 5 
+her : 3 
+makes : 2 
+sea : 1 2 4 
+sells : 1 
+she : 1 5 
+shells : 1 4 
+shore : 2 
+sold. : 5 
+that : 4 
+the : 2 4 
+to : 3 
+turtle : 4 
